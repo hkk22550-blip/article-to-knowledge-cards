@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn articles or Markdown/TXT files into 5-8 structured knowledge cards with key points, explanations, and self-test questions."
+  default_prompt: "把这篇文章做成知识卡片，提取核心知识点，每张卡片包含标题、核心知识、解释和自测问题。"
